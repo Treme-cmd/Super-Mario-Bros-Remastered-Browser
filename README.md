@@ -22,5 +22,5 @@ This project needs contributors!
 If you know GDScript, it would be great if you could help, please fork this repo and submit your contributions.
 
 ## How to play
-You can play via the link provide,, but it is VERY buggy an will NOT work on low end devices. You can help fix these problems by comtributing to this project. Thank you :)
+You can play via the link provided, but it is VERY buggy an will NOT work on low end devices. You can help fix these problems by contributing to this project. Thank you :)
 
