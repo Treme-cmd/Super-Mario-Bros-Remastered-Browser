@@ -325,6 +325,7 @@ values = ["VIDEO_MODE_WINDOWED", "VIDEO_MODE_BORDERLESS", "VIDEO_MODE_FULLSCREEN
 
 [node name="Size" parent="PanelContainer/MarginContainer/VBoxContainer/Video" groups=["Options"] instance=ExtResource("3_dl6kk")]
 layout_mode = 2
+alignment = 1
 option_key = "size"
 title = "VIDEO_SIZE"
 values = ["VIDEO_ASPECT_OG", "VIDEO_ASPECT_WIDE"]

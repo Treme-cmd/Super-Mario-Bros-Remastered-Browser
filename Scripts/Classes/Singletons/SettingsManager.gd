@@ -3,14 +3,14 @@ extends Node
 var file := {
 	"video": {
 		"mode": 0,
-		"size": 0,
+		"size": 1,
 		"vsync": 1,
 		"drop_shadows": 1,
-		"scaling": 0,
+		"scaling": 1,
 		"visuals": 0,
 		"hud_size": 0, 
 		"frame_limit" : 0,
-		"window_size": [256, 240]
+		"window_size": [1280, 650]
 	},
 	"audio": {
 		"master": 10,
