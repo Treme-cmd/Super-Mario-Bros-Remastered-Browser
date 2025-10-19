@@ -22,5 +22,5 @@ This project needs contributors!
 If you know GDScript, it would be great if you could help, please fork this repo and submit your contributions.
 
 ## How to play
-I am not currently hosting any website for it, but you can get the current web build running by downloading the contents of the "build" folder and host them with Vercel, Netlify, really hoster like that.
+You can play via the link provide,, but it is VERY buggy an will NOT work on low end devices. You can help fix these problems by comtributing to this project. Thank you :)
 
